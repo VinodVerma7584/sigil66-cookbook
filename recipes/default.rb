@@ -16,3 +16,4 @@ apt_repository 'sigil66' do
 end
 
 package 'vim'
+package 'curl'
