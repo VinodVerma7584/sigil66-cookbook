@@ -14,3 +14,5 @@ apt_repository 'sigil66' do
   arch 'amd64'
   key 'https://s3-us-west-2.amazonaws.com/apt.sigil66.com/Sigil66-Ops.gpg'
 end
+
+package 'vim'
